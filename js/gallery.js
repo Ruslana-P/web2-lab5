@@ -1,5 +1,3 @@
-// require("basiclightbox");
-
 const images = [
   {
     preview: "https://i.imgur.com/D4Khsti.png",
